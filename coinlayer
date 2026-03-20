@@ -1,4 +1,4 @@
-name: did:iden3:billions:main:2VwP5PKUMdqAN9oRDAeUSEzwi3gjL1yB9B42WxZCYn
+name: 2VwP5PKUMdqAN9oRDAeUSEzwi3gjL1yB9B42WxZCYn
 
 on:
   workflow_dispatch:
